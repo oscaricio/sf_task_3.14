@@ -8,17 +8,17 @@
 3. [Терминология](#terminology)
 4. Инструкция
    + [Установка Git](./git-install.md)
-   + [Создание репозитория](./create-repo.md)
-   + [Конфигурация Git](./git-config.md)
-   + [Клонирование репозитория](./clone-repo.md)
-   + [Добавление файлов](./add.md)
-   + [Создание коммита](./create-commit.md)
-   + [Отправка изменений на сервер](./push.md)
-   + [Получение изменений с сервера](./pull.md)
-   + [Создание веток](./create-branch.md)
-   + [Переключение между ветками](./checkout-branch.md)
-   + [Слияние веток](./merge-branch.md)
-   + [Изменение истории коммитов](./rebase.md)
+   + [Создание репозитория](./create-repo.md) `git init`
+   + [Конфигурация Git](./git-config.md) `git config`
+   + [Клонирование репозитория](./clone-repo.md) `git clone`
+   + [Добавление файлов](./add.md) `git add`
+   + [Создание коммита](./create-commit.md) `git commit`
+   + [Отправка изменений на сервер](./push.md) `git push`
+   + [Получение изменений с сервера](./pull.md) `git pull`
+   + [Создание веток](./create-branch.md) `git branch`
+   + [Переключение между ветками](./checkout-branch.md) `git checkout`
+   + [Слияние веток](./merge-branch.md) `git merge`
+   + [Изменение истории коммитов](./rebase.md) `git rebase`
 
 ***
 ## Начало
