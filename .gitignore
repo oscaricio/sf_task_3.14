@@ -6,3 +6,6 @@
 *.njsproj
 *.sln
 *.sw?
+
+#ssh keys
+.ssh
